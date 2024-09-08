@@ -1,0 +1,9 @@
+.dash{
+    display: flex;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    gap:100px
+}
+.top{
+    background-color:brown;
+}

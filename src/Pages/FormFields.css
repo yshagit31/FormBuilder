@@ -1,0 +1,14 @@
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    color: black;
+    height: 100vh;
+    background-color: green; 
+    /* padding: 10px;  */
+}
+
+.text {
+    /* margin: 10px 0; */
+}
